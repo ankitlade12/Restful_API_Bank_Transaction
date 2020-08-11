@@ -2,7 +2,7 @@
 
 •Created Restful API to handle Bank Transaction.
 
-•Reources: Register, Add Cash, Transfer Cash, Check Balance, Take Loan, Pay Loan.
+•Resources: Register, Add Cash, Transfer Cash, Check Balance, Take Loan, Pay Loan.
 
 •Method: POST
 
